@@ -1,38 +1,24 @@
 <html>
 	<head>
-		<title>Form Tag in HTML</title>
+		<title>Scrambled Egg Recipe</title>
 	</head>
 	<body>
-			<form method="get" style="border:3px;border-style:solid;border-color:#000000;padding: 1em;width:400px;height:65px">
-			<p style="width:90px;margin-top:-25px;margin-left:5px;background:white">Your Details:</p>
-			Name:<input type="text" name="name" maxlength="100"/>
-			<br />
-			Email:<input type="text" name="name" maxlength="100"/>
-			</form>
-			<form method="get" style="border:3px;border-style:solid;border-color:#000000;padding: 1em;width:400px;height:350">
-			<p style="width:95px;margin-top:-25px;margin-left:5px;background:white">Your Review:</p>
-			How did you hear about us? 
-			<select>
-				<option>Google</option>
-				<option>Newspaper</option>
-				<option>Television</option>
-				<option>Yahoo</option>
-			</select>
-			<br/>
-			<br/>
-			Would you visit again? 
-			<input type="radio" name="visit" value="yes" checked/>Yes
-			<input type="radio" name="visit" value="no"/>No
-			<input type="radio" name="visit" value="may be"/>May be 
-			<br/>
-			<br/>
-			Comments: 
-			<br/>
-			<textarea name="comments" rows="10" cols="40"></textarea>
-			<br/>
-			<input type="checkbox" name="sign" checked>Sign me up for email updates.
-			<br/>
-			<button>Submit Review</button>
-			</form>
+		<h1>Scrambled Egg</h1>
+		<p>Eggs are one of my favourite foods. Here is a recipe for deliciosly rich scrambled eggs.</p>
+		<h2>Ingredients</h2>
+		<ul>
+		<li>2 eggs</li>
+		<li>1tbs butter</li>
+		<li>2tbs cream</li>
+		<h2>Method</h2>
+		</ul>
+		<ol>
+		<li>Melt butter in a frying pan over a medium heat</li>
+		<li>Gently mix the eggs and cream in a bowl.</li>
+		<li>Once butter is melted add cream and eggs.</li>
+		<li>Using a spatula fold the eggs from the edge of the pan to the center every 2[0 seconds (as if you are making an omlette).</li>
+		<li>When the eggs are still moist remove from the heat (it will continue to cook on the plate until served).</li>
+		</ol>
+		
 	</body>
 </html>
