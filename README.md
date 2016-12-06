@@ -10,8 +10,8 @@
 		<li>2 eggs</li>
 		<li>1tbs butter</li>
 		<li>2tbs cream</li>
-		<h2>Method</h2>
 		</ul>
+		<h2>Method</h2>
 		<ol>
 		<li>Melt butter in a frying pan over a medium heat</li>
 		<li>Gently mix the eggs and cream in a bowl.</li>
